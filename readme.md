@@ -27,17 +27,17 @@ To achieve the best results, I used three different machine learning algorithms
 
 ### Linear Regression Results : 
 
-![LinearRegressionResults](./readmeimages/lin_ress.png)
+![LinearRegressionResults](./readme/lin_ress.png)
 
 ### Decision Tree Results : 
 
-![DecisionTreeResults](./readmeimages/tree_res.png)
+![DecisionTreeResults](./readme/tree_res.png)
 
 ### Neural Network Results : 
 
-![NNResults](./readmeimages/nn_res.png)
+![NNResults](./readme/nn_res.png)
 
-![NNLossResults](./readmeimages/nnlos_res.png)
+![NNLossResults](./readme/nnlos_res.png)
 
 # Summary
 
