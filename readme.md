@@ -1,6 +1,6 @@
 
 
-# Hause Price Prediction
+# House Price Prediction
 
 The project involves creating the best model for predicting house prices based on the "Poland OLX House Price Q122" dataset. 
 https://www.kaggle.com/datasets/g1llar/poland-olx-house-price-q122
@@ -26,13 +26,19 @@ To achieve the best results, I used three different machine learning algorithms
 # Results for models
 
 ### Linear Regression Results : 
+
 ![LinearRegressionResults](./readmeimages/lin_ress.png)
+
 ### Decision Tree Results : 
+
 ![DecisionTreeResults](./readmeimages/tree_res.png)
+
 ### Neural Network Results : 
+
 ![NNResults](./readmeimages/nn_res.png)
+
 ![NNLossResults](./readmeimages/nnlos_res.png)
 
-## Summary
+# Summary
 
 Among the three models used, linear regression performed the worst with an accuracy of only 65%. The Neural Network and Decision Tree models excelled at this task. Both the Decision Tree and Neural Network achieved an accuracy of 99%. When plotting y_test against y_pred, a linear (1:1) relationship appears, similarly for the Neural Network.
